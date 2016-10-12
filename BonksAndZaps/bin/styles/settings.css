@@ -1,0 +1,4 @@
+#label {
+	-fx-font-size: 16;
+	-fx-effect: dropshadow(gaussian, black, 0.5, 0.2, 0.2, 0.2);
+}

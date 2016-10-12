@@ -1,0 +1,31 @@
+#title {
+	-fx-font-size: 36;
+	-fx-text-fill: red;
+	-fx-effect: dropshadow(gaussian, black, 3, 1, 1, 1);
+}
+
+.label, .radioButton {
+	-fx-font-size: 14;
+}
+
+#errormsg {
+	-fx-font-weight: bold;
+	-fx-effect: dropshadow(gaussian, black, 0.1, 0.1, 0.1, 0.1);
+}
+
+#subtitle {
+	-fx-font-weight: bold;
+	-fx-effect: dropshadow(gaussian, black, 0.1, 0.1, 0.1, 0.1);
+}
+
+#bonk {
+	-fx-text-fill: red;
+}
+
+#dead {
+	-fx-text-fill: brown;
+}
+
+#zap {
+	-fx-text-fill: goldenrod;
+}

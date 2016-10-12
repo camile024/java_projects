@@ -1,0 +1,36 @@
+7
+B4353
+3.6
+M
+Borth
+Rhydypennau
+A487
+3.4
+A
+Aberystwyth
+Bow Street
+A487
+0.9
+A
+Aberystwyth
+Penparcau
+A44
+1.2
+A
+Aberystwyth
+Llanbadarn
+Hoel-y-bont
+0.8
+M
+Penparcau
+Llanbadarn
+A487
+0.9
+A
+Bow Street
+Rhydypennau
+A487
+2.7
+A
+Rhydypennau
+Tal-y-bont
